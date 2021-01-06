@@ -8,3 +8,5 @@ git rm --cached <file_name>
 git branch
 git checkout <branch_name>
 git merge <branch_name>
+
+print('git dev')
